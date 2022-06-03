@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(235, 252, 7);
+}
+h1{
+    border-bottom-style:dotted ;
+    color: #ff0000;
+    background-color: rgb(252, 247, 0);
+}
+p{
+    padding: 5px;
+    border-style: outset;
+    border-color: #ff0037;
+    border-left: 5px;
+    border-radius: 10px;
+    
+}  
+
+
